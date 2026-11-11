@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-09T23:23:42Z",
+  "generated": "2026-11-11T20:51:02Z",
   "image": "materialcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.3.0",
+      "app_version": "0.4.0",
       "arch": "aarch64",
-      "generated": "2026-11-09T23:22:54Z",
+      "generated": "2026-11-11T20:50:31Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
